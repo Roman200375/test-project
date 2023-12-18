@@ -1,4 +1,0 @@
-Try to write English words into the file.
-Second String?
-Спробуємо записати український текст у файлі.
-Цей текст буде записано через контекст менеджера!
